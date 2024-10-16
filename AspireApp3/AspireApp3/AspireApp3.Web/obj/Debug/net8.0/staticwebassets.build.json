@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "c5avzriIx8gYMOxwoestF9VnBKLOvdW40nJxsReiuaM=",
+  "Source": "AspireApp3.Web",
+  "BasePath": "_content/AspireApp3.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspireApp3.Web\\wwwroot",
+      "Source": "AspireApp3.Web",
+      "ContentRoot": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp3.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireApp3.Web.styles.css",
+      "SourceId": "AspireApp3.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/AspireApp3.Web",
+      "RelativePath": "AspireApp3.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "1hbw3lszf4",
+      "Integrity": "FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireApp3.Web.styles.css"
+    },
+    {
+      "Identity": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireApp3.Web.bundle.scp.css",
+      "SourceId": "AspireApp3.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AspireApp3.Web",
+      "RelativePath": "AspireApp3.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "1hbw3lszf4",
+      "Integrity": "FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireApp3.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\app.css",
+      "SourceId": "AspireApp3.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp3.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1uqbrtobrh",
+      "Integrity": "mStGhFafQyQCHEQR0uuxgkZgPzw2sqtQBh5qfTJ96lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "AspireApp3.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp3.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "AspireApp3.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp3.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\favicon.png",
+      "SourceId": "AspireApp3.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\",
+      "BasePath": "_content/AspireApp3.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.1uqbrtobrh.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mStGhFafQyQCHEQR0uuxgkZgPzw2sqtQBh5qfTJ96lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1uqbrtobrh"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mStGhFafQyQCHEQR0uuxgkZgPzw2sqtQBh5qfTJ96lU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mStGhFafQyQCHEQR0uuxgkZgPzw2sqtQBh5qfTJ96lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mStGhFafQyQCHEQR0uuxgkZgPzw2sqtQBh5qfTJ96lU="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp3.Web.1hbw3lszf4.bundle.scp.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireApp3.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:40:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hbw3lszf4"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp3.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp3.Web.1hbw3lszf4.styles.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireApp3.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:40:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hbw3lszf4"
+        },
+        {
+          "Name": "label",
+          "Value": "AspireApp3.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp3.Web.bundle.scp.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireApp3.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:40:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA="
+        }
+      ]
+    },
+    {
+      "Route": "AspireApp3.Web.styles.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireApp3.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:40:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdmqOEQKcIExhfFCxf0Wfe/aWn0Up0vcJDSwkMscUcA="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "F:\\source\\demos\\AspireApp3\\AspireApp3.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Oct 2024 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
